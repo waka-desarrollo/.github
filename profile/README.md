@@ -263,12 +263,15 @@ El tema base ya incluye un `.gitignore` correcto.
 
 ## Recursos
 
-| Qué                             | Dónde                                                                                                   |
-| ------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| Montar un proyecto nuevo        | [wa-scripts/README.md](https://github.com/waka-desarrollo/wa-scripts/blob/main/README.md)             |
-| Configurar deploy automático    | [wa-scripts/DEPLOY_GUIDE.md](https://github.com/waka-desarrollo/wa-scripts/blob/main/DEPLOY_GUIDE.md) |
-| Tema base                       | [wa-base-theme](../waka-base-theme)                                                                   |
-| Módulos WordPress reutilizables | [wa-wp-utils](https://github.com/waka-desarrollo/wa-wp-utils)                                           |
+| Qué | Dónde |
+|-----|-------|
+| Montar un proyecto nuevo | [wa-scripts/README.md](https://github.com/waka-desarrollo/wa-scripts/blob/main/README.md) |
+| Configurar deploy automático | [wa-scripts/DEPLOY_GUIDE.md](https://github.com/waka-desarrollo/wa-scripts/blob/main/DEPLOY_GUIDE.md) |
+| Tema base | [wa-base-theme](https://github.com/waka-desarrollo/wa-base-theme) |
+| Módulos WordPress reutilizables | [wa-wp-utils](https://github.com/waka-desarrollo/wa-wp-utils) |
+| Componentes reutilizables | [wa-components-lib](https://github.com/waka-desarrollo/wa-components-lib) |
+| Optimización y performance | [wa-wp-performance](https://github.com/waka-desarrollo/wa-wp-performance-kit) |
+| Errores comunes y soluciones | [wa-gotchas](https://github.com/waka-desarrollo/wa-gotchas) |  
 
 ---
 
