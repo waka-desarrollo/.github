@@ -11,8 +11,6 @@ El código del estudio. Organizado, versionado, deployado.
 | Owner  | Alejandro, Alicia, Vito, Mariusz       | Todo — gestionar org, repos, miembros |
 | Member | otros devs | Push/pull en repos asignados          |
 
-¿Necesitas acceso a un repo? Habla con Mariusz.
-
 ---
 
 ## Convenciones
