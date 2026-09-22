@@ -93,7 +93,7 @@ GitHub - tu repo personal
 El repo ahora vive en `github.com/somoswaka/proyecto`.
 Los links antiguos redirigen automáticamente.
 
-### Paso 2 — Actualizar la URL remota en tu ordenador
+### Paso 2 - Actualizar la URL remota en tu ordenador
 
 Después de transferir, actualiza el remote en tu máquina local.
 
@@ -114,7 +114,7 @@ Settings - Remotes - origin - Edit
 - OK
 ```
 
-### Paso 3 — Verificar
+### Paso 3 - Verificar
 
 ```bash
 git fetch origin
@@ -127,7 +127,7 @@ git status
 ## Trabajar en equipo
 
 Cuando más de una persona trabaja en el mismo proyecto
-— como la nueva web de waka — cada developer trabaja
+- como la nueva web de waka - cada developer trabaja
 en su propia rama y nunca directamente en `main`.
 
 ### El flujo
@@ -166,7 +166,7 @@ Fetch - selecciona origin/dev-vito - Merge
 ### Si hay un conflicto
 
 Un conflicto pasa cuando dos personas han editado
-la misma línea del mismo archivo. No es un error —
+la misma línea del mismo archivo. No es un error -
 es Git diciendo "necesito que decidas tú".
 
 ```
@@ -182,13 +182,13 @@ es Git diciendo "necesito que decidas tú".
 4. git commit -m "merge: resolver conflicto en header.php"
 ```
 
-Ante cualquier duda — habla con la otra persona antes de resolver.
+Ante cualquier duda - habla con la otra persona antes de resolver.
 
 ---
 
 ## GitHub Secrets y deploy automático
 
-Los deploys a staging y producción son automáticos —
+Los deploys a staging y producción son automáticos -
 cada push a la rama correcta dispara el deploy solo.
 
 Las credenciales FTP (host, usuario, contraseña, path)
@@ -200,7 +200,7 @@ GitHub - tu repo - Settings - Secrets and variables - Actions
 ```
 
 Para configurar el deploy automático en un proyecto
-usamos los scripts de waka-scripts — no hace falta
+usamos los scripts de waka-scripts - no hace falta
 tocar nada manualmente:
 
 ```bash
@@ -245,7 +245,7 @@ hacer `git push` y el resto ocurre solo.
 
 ---
 
-## .gitignore — lo que nunca debe subir a GitHub
+## .gitignore - lo que nunca debe subir a GitHub
 
 Asegúrate de que tu `.gitignore` incluye siempre:
 
