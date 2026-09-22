@@ -8,7 +8,7 @@ El código del estudio. Organizado, versionado, deployado.
 
 | Rol    | Quién                    | Puede                                 |
 | ------ | ------------------------ | ------------------------------------- |
-| Owner  | Alejandro, Alicia, Vito, Mariusz       | Todo — gestionar org, repos, miembros |
+| Owner  | Alejandro, Alicia, Vito, Mariusz       | Todo - gestionar org, repos, miembros |
 | Member | otros devs | Push/pull en repos asignados          |
 
 ---
