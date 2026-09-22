@@ -205,10 +205,10 @@ tocar nada manualmente:
 
 ```bash
 # Deploy a staging (una vez por proyecto)
-bash /c/waka-scripts/setup-deploy-dev.sh
+bash /c/wa-scripts/setup-deploy-dev.sh
 
 # Deploy a producción (una vez por proyecto)
-bash /c/waka-scripts/setup-deploy-prod.sh
+bash /c/wa-scripts/setup-deploy-prod.sh
 ```
 
 Los scripts añaden los secrets automáticamente y crean
