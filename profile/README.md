@@ -265,9 +265,9 @@ El tema base ya incluye un `.gitignore` correcto.
 
 | Qué                             | Dónde                                                                                                   |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| Montar un proyecto nuevo        | [waka-scripts/README.md](https://github.com/waka-desarrollo/wa-scripts/blob/main/README.md)             |
-| Configurar deploy automático    | [waka-scripts/DEPLOY_GUIDE.md](https://github.com/waka-desarrollo/wa-scripts/blob/main/DEPLOY_GUIDE.md) |
-| Tema base                       | [waka-base-theme](../waka-base-theme)                                                                   |
+| Montar un proyecto nuevo        | [wa-scripts/README.md](https://github.com/waka-desarrollo/wa-scripts/blob/main/README.md)             |
+| Configurar deploy automático    | [wa-scripts/DEPLOY_GUIDE.md](https://github.com/waka-desarrollo/wa-scripts/blob/main/DEPLOY_GUIDE.md) |
+| Tema base                       | [wa-base-theme](../waka-base-theme)                                                                   |
 | Módulos WordPress reutilizables | [wa-wp-utils](https://github.com/waka-desarrollo/wa-wp-utils)                                           |
 
 ---
