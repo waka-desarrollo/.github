@@ -13,6 +13,16 @@ El código del estudio. Organizado, versionado, deployado.
 
 ---
 
+## La regla de oro
+
+main - producción (lo que ve el cliente)
+dev-\* - desarrollo (lo que ves tú)
+
+Nunca subas código sin probar directamente a main.
+Siempre pasa por staging primero.
+
+
+
 ## Convenciones
 
 ### Repos
@@ -29,13 +39,6 @@ El código del estudio. Organizado, versionado, deployado.
 
 Siempre minúsculas, siempre guiones, nunca espacios.
 
-## La regla de oro
-
-main - producción (lo que ve el cliente)
-dev-\* - desarrollo (lo que ves tú)
-
-Nunca subas código sin probar directamente a main.
-Siempre pasa por staging primero.
 
 ### Ramas
 
