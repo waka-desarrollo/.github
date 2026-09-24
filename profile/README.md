@@ -272,6 +272,7 @@ El tema base ya incluye un `.gitignore` correcto.
 | Componentes reutilizables | [wa-components-lib](https://github.com/waka-desarrollo/wa-components-lib) |
 | Optimización y performance | [wa-wp-performance](https://github.com/waka-desarrollo/wa-wp-performance-kit) |
 | Errores comunes y soluciones | [wa-gotchas](https://github.com/waka-desarrollo/wa-gotchas) |  
+| Antes de publicar en producción | [LAUNCH_CHECKLIST.md](https://github.com/waka-desarrollo/wa-scripts/blob/main/LAUNCH_CHECKLIST.md) |
 
 ---
 
